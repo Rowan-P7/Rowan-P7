@@ -1,6 +1,6 @@
-## Hi there 👋 I am a first year Cyber Security student at Leeds Beckett University
+## Hi there 👋 
 
-
+I am a first year Cyber Security student at Leeds Beckett University
 <!--
 **Rowan-P7/Rowan-P7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
